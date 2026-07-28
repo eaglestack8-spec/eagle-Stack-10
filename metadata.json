@@ -1,0 +1,6 @@
+{
+  "name": "SMYRNA Fellowship Trust",
+  "description": "Official website for SMYRNA Fellowship Trust — a non-profit charitable organization based in Ooty, Tamil Nadu, India, dedicated to compassionate care, education, shelter, and community empowerment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
